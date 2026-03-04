@@ -59,7 +59,7 @@ This repository serves as the central hub for the FIDUCCI ecosystem. Explore our
 
 ## 👥 The Founding Team
 
-- **[Tu Nombre]** - Strategy & Product Lead (Legal-Tech Architect).
+- **RoM** - Strategy & Product Lead (Legal-Tech Architect).
 - **Artur** - Lead Backend & Smart Contract Developer (Chainlink Expert).
 - **Robin** - Front-End Developer & UI/UX Designer.
 
