@@ -33,7 +33,7 @@ To stress-test our TaaS engine, we are using a **$6M USD Land Development** in P
 
 - **Network:** [Arbitrum One](https://arbitrum.io/) (Planned migration to Stylus for high-performance compute).
 - **Oracle Framework:** [Chainlink Functions](https://chainlink.re/) & Runtime Environment (CRE).
-- **Data Oracles:** Real-time integration with **Intelimetrica** and **Tinsa** APIs for localized market data.
+- **Data Oracles:** Real-time integration with data providers like **Intelimetrica** APIs for localized market data.
 - **Smart Contracts:** Solidty-based vault and fractionalization logic.
 
 ---
