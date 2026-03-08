@@ -92,7 +92,7 @@ For a full list of auxiliary contracts (Tokens, Vaults, and Escrows) and detaile
 To save you time evaluating our "Trust Stack", here is where our core integrations live across our ecosystem:
 
 * **Chainlink CRE (Runtime Environment):** Explore the decentralized workflows bridging off-chain legal status with our smart contracts in the [`cre_automation`](https://github.com/FIDUCCI-Projects/cre_automation) repository. This is our core engine for verifiable trust.
-* **Arbitrum Smart Contracts:** Navigate to the [`_contracts`](https://github.com/FIDUCCI-Projects/rebeka_contracts) repository for the Solidity logic governing the issuance and management of isolated Economic Rights.
+* **Arbitrum Smart Contracts:** Navigate to the [`contracts`](https://github.com/FIDUCCI-Projects/rebeka_contracts) repository for the Solidity logic governing the issuance and management of isolated Economic Rights.
 * **Frontend (dApp):** The complete institutional investor dashboard UI, built to interact with our Arbitrum deployment, is located in the [`FrontEnd`](https://github.com/FIDUCCI-Projects/FrontEnd) repository.
 ---
 
