@@ -27,7 +27,7 @@ FIDUCCI is a decentralized "Trust Stack" designed to bridge high-value Real Worl
 
 ## 🏗️ Core Architecture: The "Trust Stack"
 
-![FIDUCCI Architecture]([LINK_A_LA_IMAGEN_DE_ARQUITECTURA_AQUI])
+![FIDUCCI Architecture](https://github.com/FIDUCCI-Projects/fiducci-docs/blob/main/architecture/arquitectura.jpg)
 
 Our infrastructure is built on four fundamental pillars to ensure institutional adoption:
 
