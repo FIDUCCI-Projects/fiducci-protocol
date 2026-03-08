@@ -59,10 +59,10 @@ To save you time evaluating our "Trust Stack", here is where our core integratio
 
 ## 🛠️ Technical Stack & Integrations
 
-- **Network:** [Arbitrum One / Sepolia Testnet](https://arbitrum.io/) (Planned migration to Stylus for high-performance compute).
+- **Network:** [Arbitrum One / Sepolia Testnet](https://arbitrum.io/).
+- **Execution:** Solidity-based Smart Contracts (Planned migration to **Arbitrum Stylus** for enhanced performance).
 - **Oracle Framework:** [Chainlink Functions](https://chain.link/) & Chainlink Runtime Environment (CRE).
-- **Data Oracles:** Real-time integration with data providers like **Intelimetrica** APIs for localized market data.
-- **Smart Contracts:** Solidity-based vault and economic rights distribution logic.
+- **Data Oracles:** Real-time integration with **Intelimetrica** APIs.
 
 ---
 
@@ -80,9 +80,10 @@ This repository (`fiducci-protocol`) serves as the central hub for the ecosystem
 ## 🚀 Roadmap
 
 - [x] **Phase 1:** Legal Design & Technical Architecture.
-- [x] **Phase 2:** MVP Deployment on Arbitrum Sepolia.
-- [x] **Phase 3:** Chainlink CRE Integration & Beta Testing.
-- [ ] **Phase 4:** Genesis Case Pilot Launch ($6M USD Asset).
+- [x] **Phase 2:** MVP Deployment on Arbitrum Sepolia (Solidity-based).
+- [x] **Phase 3:** **Chainlink CRE Integration & Beta Testing (Hackathon Milestone Achieved! 🏆)**.
+- [ ] **Phase 4:** **Stylus Migration** - Transitioning core compute-intensive logic to Arbitrum Stylus for high-performance execution.
+- [ ] **Phase 5:** Genesis Case Pilot Launch ($6M USD Asset in Puebla).
 
 ---
 
