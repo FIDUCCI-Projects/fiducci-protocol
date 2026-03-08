@@ -68,14 +68,13 @@ To save you time evaluating our "Trust Stack", here is where our core integratio
 
 ## 📂 Repository Directory
 
-This repository (`fiducci-protocol`) serves as the central hub and presentation layer for the FIDUCCI ecosystem. The core infrastructure is modularized across the following specialized repositories within our organization:
+This repository (`fiducci-protocol`) serves as the central hub for the ecosystem. Our infrastructure is modularized across these specialized repositories:
 
-* [**FrontEnd**](https://github.com/FIDUCCI-Projects/FrontEnd) - The frontend dApp and institutional investor dashboard (UI/UX).
-* [**cre_automation**](https://github.com/FIDUCCI-Projects/cre_automation) - Off-chain logic, Data Oracles, and **Chainlink CRE** integration workflows.
-* [**rebeka_contracts**](https://github.com/FIDUCCI-Projects/rebeka_contracts) - The core Solidity Smart Contracts deployed on Arbitrum handling the isolated economic rights.
+* [**FrontEnd**](https://github.com/FIDUCCI-Projects/FrontEnd) - The frontend dApp and institutional investor dashboard. **Live at:** [front-end-lemon-two.vercel.app](https://front-end-lemon-two.vercel.app/)
+* [**cre_automation**](https://github.com/FIDUCCI-Projects/cre_automation) - Off-chain logic and **Chainlink CRE** integration workflows.
+* [**rebeka_contracts**](https://github.com/FIDUCCI-Projects/rebeka_contracts) - Core Solidity Smart Contracts on Arbitrum handling isolated economic rights.
 * [**rebeka_mocked_back**](https://github.com/FIDUCCI-Projects/rebeka_mocked_back) - Backend services and API mocking infrastructure.
-* [**fiducci-docs**](https://github.com/FIDUCCI-Projects/fiducci-docs) - Comprehensive Whitepaper, Legal Framework, and Architecture Diagrams.
-
+* [**fiducci-docs**](https://github.com/FIDUCCI-Projects/fiducci-docs) - Comprehensive Whitepaper and Legal Framework.
 ---
 
 ## 🚀 Roadmap
