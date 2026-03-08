@@ -24,7 +24,7 @@ Our infrastructure is built on four fundamental pillars to ensure institutional 
 | :--- | :--- | :--- |
 | **Legality** | Mexican Fideicomiso (Land Trust) | 1:1 Legal backing, bankruptcy-remote isolation, and regulatory compliance. |
 | **Solidity** | Arbitrum L2 + Stylus | Scalable, low-latency, and secure execution layer for institutional-grade token issuance. |
-| **Verifiability** | Chainlink CRE & Functions | Real-time verification via institutional APIs (Intelimetrica/Tinsa) connecting on-chain logic with off-chain legal data. |
+| **Verifiability** | Chainlink CRE (Runtime Environment) | Decentralized verification engine connecting on-chain logic with off-chain legal data and asset valuation. |
 | **Privacy** | FHE (Fully Homomorphic Encryption) | Data protection for sensitive investor information and encrypted economic flow distribution. |
 
 ---
