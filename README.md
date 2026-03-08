@@ -2,7 +2,7 @@
 
 ### Institutional-Grade RWA Infrastructure on Arbitrum.
 
-[![Chainlink Hackathon 2026](https://img.shields.io/badge/Chainlink-Hackathon_2026-blue)](https://devpost.com)
+[![Chainlink Hackathon 2026](https://img.shields.io/badge/Chainlink-Hackathon_2026-blue)](https://chain.link/hackathon)
 [![Arbitrum Sepolia](https://img.shields.io/badge/Arbitrum-Sepolia_Testnet-28A0F0)](https://sepolia.arbiscan.io/)
 [![Live dApp](https://img.shields.io/badge/Live_dApp-Vercel-black?logo=vercel)](https://front-end-lemon-two.vercel.app/)
 
