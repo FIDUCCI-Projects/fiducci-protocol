@@ -81,7 +81,7 @@ The FIDUCCI "Trust Stack" is live on the **Arbitrum Sepolia Testnet**. We have m
 ### 🔍 Technical Deep Dive
 For a full list of auxiliary contracts (Tokens, Vaults, and Escrows) and detailed deployment scripts, please refer to our dedicated contracts repository:
 
-👉 [**Go to rebeka_contracts README**](https://github.com/FIDUCCI-Projects/rebeka_contracts)
+👉 [**Go to the README of Repository contracts**](https://github.com/FIDUCCI-Projects/_contracts)
 
 > 💡 **Note to Judges:** To audit the Solidity implementation of our Trust logic, valuation engines, and automated workflows, we recommend reviewing the source code in the repository linked above. Contracts are currently in the final integration phase for the live demo.
 
@@ -92,7 +92,7 @@ For a full list of auxiliary contracts (Tokens, Vaults, and Escrows) and detaile
 To save you time evaluating our "Trust Stack", here is where our core integrations live across our ecosystem:
 
 * **Chainlink CRE (Runtime Environment):** Explore the decentralized workflows bridging off-chain legal status with our smart contracts in the [`cre_automation`](https://github.com/FIDUCCI-Projects/cre_automation) repository. This is our core engine for verifiable trust.
-* **Arbitrum Smart Contracts:** Navigate to the [`rebeka_contracts`](https://github.com/FIDUCCI-Projects/rebeka_contracts) repository for the Solidity logic governing the issuance and management of isolated Economic Rights.
+* **Arbitrum Smart Contracts:** Navigate to the [`_contracts`](https://github.com/FIDUCCI-Projects/_contracts) repository for the Solidity logic governing the issuance and management of isolated Economic Rights.
 * **Frontend (dApp):** The complete institutional investor dashboard UI, built to interact with our Arbitrum deployment, is located in the [`FrontEnd`](https://github.com/FIDUCCI-Projects/FrontEnd) repository.
 ---
 
@@ -110,8 +110,8 @@ This repository (`fiducci-protocol`) serves as the central hub for the ecosystem
 
 * [**FrontEnd**](https://github.com/FIDUCCI-Projects/FrontEnd) - The frontend dApp and institutional investor dashboard. **Live at:** [front-end-lemon-two.vercel.app](https://front-end-lemon-two.vercel.app/)
 * [**cre_automation**](https://github.com/FIDUCCI-Projects/cre_automation) - Off-chain logic and **Chainlink CRE** integration workflows.
-* [**rebeka_contracts**](https://github.com/FIDUCCI-Projects/rebeka_contracts) - Core Solidity Smart Contracts on Arbitrum handling isolated economic rights.
-* [**rebeka_mocked_back**](https://github.com/FIDUCCI-Projects/rebeka_mocked_back) - Backend services and API mocking infrastructure for legal/valuation data.
+* [**_contracts**](https://github.com/FIDUCCI-Projects/_contracts) - Core Solidity Smart Contracts on Arbitrum handling isolated economic rights.
+* [**_mocked_back**](https://github.com/FIDUCCI-Projects/_mocked_back) - Backend services and API mocking infrastructure for legal/valuation data.
 * [**fiducci-docs**](https://github.com/FIDUCCI-Projects/fiducci-docs) - **Documentation Hub** containing legal, technical, and architectural blueprints.
 
 ---
