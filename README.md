@@ -2,9 +2,10 @@
 
 ### Institutional-Grade RWA Infrastructure on Arbitrum.
 
-[![Chainlink Hackathon 2026](https://img.shields.io/badge/Chainlink-Hackathon_2026-blue)](https://chain.link/hackathon)
-[![Arbitrum Sepolia](https://img.shields.io/badge/Arbitrum-Sepolia_Testnet-28A0F0)](https://sepolia.arbiscan.io/)
-[![Live dApp](https://img.shields.io/badge/Live_dApp-Vercel-black?logo=vercel)](https://front-end-lemon-two.vercel.app/)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=Arbitrum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 > 🔗 **Live Demo:** [https://front-end-lemon-two.vercel.app/](https://front-end-lemon-two.vercel.app/)
 > 
@@ -26,6 +27,16 @@ Our infrastructure is built on four fundamental pillars to ensure institutional 
 | **Solidity** | Arbitrum L2  | Scalable, low-latency, and secure execution layer for institutional-grade token issuance. |
 | **Verifiability** | Chainlink CRE (Runtime Environment) | Decentralized verification engine connecting on-chain logic with off-chain legal data and real-world asset valuation. |
 | **Privacy** | FHE (Fully Homomorphic Encryption) | Data protection for sensitive investor information and encrypted economic flow distribution. |
+
+---
+### 🛠️ Technical Breakdown
+
+| Component | Stack | Responsibility |
+| :--- | :--- | :--- |
+| **Smart Contracts** | Solidity / Arbitrum | Logic for issuance and management of RWA tokens. |
+| **Oracle Logic** | Chainlink CRE | Bridges legal valuation with on-chain execution. |
+| **Mocked Backend** | Node.js / Express | Simulates real-world cadastral and bank APIs for testing. |
+| **Frontend** | React / Vercel | Dashboard for institutional investors to manage assets. |
 
 ---
 
