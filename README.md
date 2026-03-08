@@ -46,12 +46,11 @@ The FIDUCCI protocol core logic is currently deployed and verifiable on the **Ar
 
 ## 🔍 For Hackathon Judges: Where to Look
 
-To save you time evaluating our "Trust Stack", here is where our core integrations live within the ecosystem:
+To save you time evaluating our "Trust Stack", here is where our core integrations live across our ecosystem:
 
-* **Chainlink CRE & Functions:** Explore the oracle integration bridging off-chain legal valuation with our smart contracts in `fiducci-contracts/oracles`.
-* **Arbitrum Smart Contracts:** Navigate to `fiducci-contracts/core` for the logic governing the isolated Economic Rights issuance.
-* **FHE Implementation:** See `fiducci-contracts/privacy` for our encrypted flow logic.
-* **Frontend (dApp):** The complete institutional investor dashboard UI is located in `fiducci-terminal`.
+* **Chainlink CRE & Functions:** Explore the oracle integration bridging off-chain legal valuation with our smart contracts in the [`cre_automation`](https://github.com/FIDUCCI-Projects/cre_automation) repository.
+* **Arbitrum Smart Contracts:** Navigate to the [`rebeka_contracts`](https://github.com/FIDUCCI-Projects/rebeka_contracts) repository for the logic governing the isolated Economic Rights issuance.
+* **Frontend (dApp):** The complete institutional investor dashboard UI is located in the [`FrontEnd`](https://github.com/FIDUCCI-Projects/FrontEnd) repository.
 
 ---
 
@@ -66,11 +65,13 @@ To save you time evaluating our "Trust Stack", here is where our core integratio
 
 ## 📂 Repository Directory
 
-This repository serves as the central hub for the FIDUCCI ecosystem. Explore our specialized modules:
+This repository (`fiducci-protocol`) serves as the central hub and presentation layer for the FIDUCCI ecosystem. The core infrastructure is modularized across the following specialized repositories within our organization:
 
-* [**fiducci-contracts**](https://github.com/FIDUCCI-Projects/fiducci-contracts) - Smart contracts, Oracles, and On-chain logic.
-* [**fiducci-terminal**](https://github.com/FIDUCCI-Projects/fiducci-terminal) - Frontend dApp for investors and asset managers.
-* [**fiducci-docs**](https://github.com/FIDUCCI-Projects/fiducci-docs) - Whitepaper, Legal Framework, and Architecture Diagrams.
+* [**FrontEnd**](https://github.com/FIDUCCI-Projects/FrontEnd) - The frontend dApp and institutional investor dashboard (UI/UX).
+* [**cre_automation**](https://github.com/FIDUCCI-Projects/cre_automation) - Off-chain logic, Data Oracles, and **Chainlink CRE** integration workflows.
+* [**rebeka_contracts**](https://github.com/FIDUCCI-Projects/rebeka_contracts) - The core Solidity Smart Contracts deployed on Arbitrum handling the isolated economic rights.
+* [**rebeka_mocked_back**](https://github.com/FIDUCCI-Projects/rebeka_mocked_back) - Backend services and API mocking infrastructure.
+* [**fiducci-docs**](https://github.com/FIDUCCI-Projects/fiducci-docs) - Comprehensive Whitepaper, Legal Framework, and Architecture Diagrams.
 
 ---
 
