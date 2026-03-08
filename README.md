@@ -71,8 +71,19 @@ This repository (`fiducci-protocol`) serves as the central hub for the ecosystem
 * [**FrontEnd**](https://github.com/FIDUCCI-Projects/FrontEnd) - The frontend dApp and institutional investor dashboard. **Live at:** [front-end-lemon-two.vercel.app](https://front-end-lemon-two.vercel.app/)
 * [**cre_automation**](https://github.com/FIDUCCI-Projects/cre_automation) - Off-chain logic and **Chainlink CRE** integration workflows.
 * [**rebeka_contracts**](https://github.com/FIDUCCI-Projects/rebeka_contracts) - Core Solidity Smart Contracts on Arbitrum handling isolated economic rights.
-* [**rebeka_mocked_back**](https://github.com/FIDUCCI-Projects/rebeka_mocked_back) - Backend services and API mocking infrastructure.
-* [**fiducci-docs**](https://github.com/FIDUCCI-Projects/fiducci-docs) - Comprehensive Whitepaper and Legal Framework.
+* [**rebeka_mocked_back**](https://github.com/FIDUCCI-Projects/rebeka_mocked_back) - Backend services and API mocking infrastructure for legal/valuation data.
+* [**fiducci-docs**](https://github.com/FIDUCCI-Projects/fiducci-docs) - **Documentation Hub** containing legal, technical, and architectural blueprints.
+
+---
+
+## 📚 Technical & Legal Documentation
+
+Detailed documentation for the FIDUCCI protocol can be found in our [Documentation Hub](https://github.com/FIDUCCI-Projects/fiducci-docs):
+
+* 🏗️ [**Architecture Diagrams**](https://github.com/FIDUCCI-Projects/fiducci-docs/tree/main/architecture) - Visual breakdown of the "Trust Stack".
+* ⚖️ [**Legal Framework**](https://github.com/FIDUCCI-Projects/fiducci-docs/tree/main/legal) - Detailed analysis of the Mexican Land Trust (Fideicomiso) integration.
+* 📄 [**Technical Whitepaper**](https://github.com/FIDUCCI-Projects/fiducci-docs/tree/main/whitepaper) - Deep dive into protocol mechanics and economic flow isolation.
+
 ---
 
 ## 🚀 Roadmap
