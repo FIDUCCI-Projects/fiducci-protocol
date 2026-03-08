@@ -12,8 +12,8 @@
   <a href="https://chain.link/cre">
     <img src="https://img.shields.io/badge/Chainlink_CRE-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" alt="Chainlink CRE">
   </a>
-  <a href="https://vercel.com/">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <a href="https://front-end-lemon-two.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_dApp-Vercel-black?style=for-the-badge&logo=vercel" alt="Live dApp">
   </a>
 </p>
 
