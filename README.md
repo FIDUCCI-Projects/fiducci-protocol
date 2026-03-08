@@ -81,7 +81,7 @@ The FIDUCCI "Trust Stack" is live on the **Arbitrum Sepolia Testnet**. We have m
 ### 🔍 Technical Deep Dive
 For a full list of auxiliary contracts (Tokens, Vaults, and Escrows) and detailed deployment scripts, please refer to our dedicated contracts repository:
 
-👉 [**Go to the README of Repository contracts**](https://github.com/FIDUCCI-Projects/_contracts)
+👉 [**Go to the README of Repository contracts**](https://github.com/FIDUCCI-Projects/rebeka_contracts)
 
 > 💡 **Note to Judges:** To audit the Solidity implementation of our Trust logic, valuation engines, and automated workflows, we recommend reviewing the source code in the repository linked above. Contracts are currently in the final integration phase for the live demo.
 
