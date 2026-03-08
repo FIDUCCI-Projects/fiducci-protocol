@@ -29,6 +29,16 @@ Our infrastructure is built on four fundamental pillars to ensure institutional 
 
 ---
 
+## ⚙️ How it Works: The Trust Loop
+
+1. **Asset Onboarding:** A $6M USD land asset in Puebla is locked into a Mexican Land Trust (Fideicomiso).
+2. **Economic Rights Isolation:** Specific economic rights are isolated legally and mirrored on-chain via **Arbitrum**.
+3. **Chainlink CRE Verification:** Our workflow triggers a verification of the legal trust status and asset valuation via **Intelimetrica APIs**.
+4. **Token Issuance:** Once verified by CRE, the protocol allows the issuance of tokens representing the isolated economic flows.
+5. **Encrypted Distribution:** Investor data and distribution flows are handled via **FHE** to ensure institutional privacy.
+
+---
+
 ## 🇲🇽 Genesis Case: Benchmarking Scale
 
 To stress-test our TaaS engine, we are using a **$6M USD Land Development** in Puebla, Mexico, as our primary benchmark. 
