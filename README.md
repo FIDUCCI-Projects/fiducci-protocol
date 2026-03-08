@@ -144,5 +144,6 @@ Detailed documentation for the FIDUCCI protocol can be found in our [Documentati
 - **Robin** - Front-End Developer & UI/UX Designer.
 
 ---
+![FIDUCCI - The Trust Stack for Real World Assets](https://github.com/FIDUCCI-Projects/fiducci-docs/blob/main/assets/Outro.png)
 
 *Disclaimer: FIDUCCI is currently in the development phase. Information provided here is for technical and educational purposes only for the Chainlink Convergence Hackathon 2026.*
