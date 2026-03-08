@@ -72,25 +72,19 @@ To stress-test our TaaS engine, we are using a **$6M USD Land Development** in P
 
 ## 📜 Deployed Contracts (Arbitrum Sepolia)
 
-Our core logic is live on the **Arbitrum Sepolia Testnet**. The following contracts represent the functional "Trust Stack", including our active operational bridge.
+The FIDUCCI "Trust Stack" is live on the **Arbitrum Sepolia Testnet**. We have modularized our deployment to ensure a verifiable link between legal assets and on-chain economic rights.
 
-### ⚡ Operational Core (Active Transactions)
-* **FIDUCCI Protocol Bridge / Issuer:** [`0x717a942F807469B5653ba78F9FA2655B38F3C7E8`](https://sepolia.arbiscan.io/address/0x717a942F807469B5653ba78F9FA2655B38F3C7E8)
-  *This is our primary active contract for the $6M USD Puebla asset benchmarking. Check Arbiscan for recent integration activity.*
+### ⚡ Operational Core & Oracle Bridge
+* **Protocol Bridge (Active):** [`0x894cdA6feBf63Ac3e4ae94e639D5D61eB9745d83`](https://sepolia.arbiscan.io/address/0x894cdA6feBf63Ac3e4ae94e639D5D61eB9745d83)
+  *This contract handles real-time verification and valuation reports via Chainlink CRE. It is the primary entry point for our "On Report" workflows.*
 
-### 🪙 Token & Asset Logic
-* **Economic Rights Token ($REBK):** [`0x2774C40632d431Ba966606866f7A66C03598687a`](https://sepolia.arbiscan.io/address/0x2774C40632d431Ba966606866f7A66C03598687a)
-  *Defines the fractional economic rights issued from the Trust.*
+### 🔍 Technical Deep Dive
+For a full list of auxiliary contracts (Tokens, Vaults, and Escrows) and detailed deployment scripts, please refer to our dedicated contracts repository:
 
-### ⛓️ Chainlink Infrastructure
-* **Chainlink CRE Automation Engine:** [`0x4763F72B9741D826960F16C503e7e9Bf71E86141`](https://sepolia.arbiscan.io/address/0x4763F72B9741D826960F16C503e7e9Bf71E86141)
-  *Manages the off-chain verification and valuation workflows.*
+👉 [**Go to rebeka_contracts README**](https://github.com/FIDUCCI-Projects/rebeka_contracts)
 
-### 🔒 Settlement & Vault
-* **Trust Vault (Escrow Logic):** [`0x7A565251a3F4a980D179f82E84A648D4C8C22204`](https://sepolia.arbiscan.io/address/0x7A565251a3F4a980D179f82E84A648D4C8C22204)
-  *Handles the secure distribution of economic flows to investors.*
+> 💡 **Note to Judges:** To audit the Solidity implementation of our Trust logic, valuation engines, and automated workflows, we recommend reviewing the source code in the repository linked above. Contracts are currently in the final integration phase for the live demo.
 
-> 💡 **Technical Note:** While some contracts are in an initialization state, the **Operational Core** shows our live integration progress. Full source code is available in the linked repositories for audit.
 ---
 
 ## 🔍 For Hackathon Judges: Where to Look
