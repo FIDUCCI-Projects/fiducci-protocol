@@ -72,26 +72,25 @@ To stress-test our TaaS engine, we are using a **$6M USD Land Development** in P
 
 ## 📜 Deployed Contracts (Arbitrum Sepolia)
 
-Our core logic is live on the **Arbitrum Sepolia Testnet**. These contracts govern the legal-to-on-chain bridge and the isolation of economic rights.
+Our core logic is live on the **Arbitrum Sepolia Testnet**. The following contracts represent the functional "Trust Stack", including our active operational bridge.
 
-### ⚖️ Legal Core (The Trust)
-* **Mexican Land Trust (Fideicomiso):** [`0x717A942F807469B5653bA78f9fA2655b38F3C7E8`](https://sepolia.arbiscan.io/address/0x717A942F807469B5653bA78f9fA2655b38F3C7E8)
-  *The digital mirror of the legal vehicle holding the 20-hectare asset.*
+### ⚡ Operational Core (Active Transactions)
+* **FIDUCCI Protocol Bridge / Issuer:** [`0x717a942F807469B5653ba78F9FA2655B38F3C7E8`](https://sepolia.arbiscan.io/address/0x717a942F807469B5653ba78F9FA2655B38F3C7E8)
+  *This is our primary active contract for the $6M USD Puebla asset benchmarking. Check Arbiscan for recent integration activity.*
 
 ### 🪙 Token & Asset Logic
-* **FIDUCCI Economic Rights Token ($REBK):** [`0x2774C40632d431Ba966606866f7A66C03598687a`](https://sepolia.arbiscan.io/address/0x2774C40632d431Ba966606866f7A66C03598687a)
+* **Economic Rights Token ($REBK):** [`0x2774C40632d431Ba966606866f7A66C03598687a`](https://sepolia.arbiscan.io/address/0x2774C40632d431Ba966606866f7A66C03598687a)
   *Defines the fractional economic rights issued from the Trust.*
 
 ### ⛓️ Chainlink Infrastructure
 * **Chainlink CRE Automation Engine:** [`0x4763F72B9741D826960F16C503e7e9Bf71E86141`](https://sepolia.arbiscan.io/address/0x4763F72B9741D826960F16C503e7e9Bf71E86141)
-  *Triggers the valuation and legal status verification workflows.*
+  *Manages the off-chain verification and valuation workflows.*
 
-### 🔒 Settlement & Trust
+### 🔒 Settlement & Vault
 * **Trust Vault (Escrow Logic):** [`0x7A565251a3F4a980D179f82E84A648D4C8C22204`](https://sepolia.arbiscan.io/address/0x7A565251a3F4a980D179f82E84A648D4C8C22204)
-  *Handles the isolated economic flows and investor distributions.*
+  *Handles the secure distribution of economic flows to investors.*
 
-> 💡 **Note to Judges:** Contracts are currently deployed for the Hackathon MVP. Full source code for each component is available in the respective repositories for technical audit.
-
+> 💡 **Technical Note:** While some contracts are in an initialization state, the **Operational Core** shows our live integration progress. Full source code is available in the linked repositories for audit.
 ---
 
 ## 🔍 For Hackathon Judges: Where to Look
