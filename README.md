@@ -110,8 +110,8 @@ This repository (`fiducci-protocol`) serves as the central hub for the ecosystem
 
 * [**FrontEnd**](https://github.com/FIDUCCI-Projects/FrontEnd) - The frontend dApp and institutional investor dashboard. **Live at:** [front-end-lemon-two.vercel.app](https://front-end-lemon-two.vercel.app/)
 * [**cre_automation**](https://github.com/FIDUCCI-Projects/cre_automation) - Off-chain logic and **Chainlink CRE** integration workflows.
-* [**_contracts**](https://github.com/FIDUCCI-Projects/_contracts) - Core Solidity Smart Contracts on Arbitrum handling isolated economic rights.
-* [**_mocked_back**](https://github.com/FIDUCCI-Projects/_mocked_back) - Backend services and API mocking infrastructure for legal/valuation data.
+* [**_contracts**](https://github.com/FIDUCCI-Projects/rebeka_contracts) - Core Solidity Smart Contracts on Arbitrum handling isolated economic rights.
+* [**_mocked_back**](https://github.com/FIDUCCI-Projects/rebeka_mocked_back) - Backend services and API mocking infrastructure for legal/valuation data.
 * [**fiducci-docs**](https://github.com/FIDUCCI-Projects/fiducci-docs) - **Documentation Hub** containing legal, technical, and architectural blueprints.
 
 ---
