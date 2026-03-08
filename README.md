@@ -21,7 +21,7 @@
 > 
 > 🎥 **[Watch our Pitch Video Here]([LINK_AL_VIDEO_AQUI])**
 
-FIDUCCI is a decentralized "Trust Stack" designed to bridge high-value Real World Assets (RWA) with on-chain liquidity. By combining professional legal frameworks (**Mexican Land Trusts**) with cutting-edge Web3 technology (**Chainlink CRE** and **FHE**), we completely close the legal and technical Trust Gap. We do not tokenize property titles; we enable the tokenization of mathematically verified **economic rights** and **isolated economic flows** for large-scale real estate assets.
+FIDUCCI is a decentralized "Trust Stack" designed to bridge high-value Real World Assets (RWA) with on-chain liquidity. By combining professional legal frameworks (Mexican Land Trusts) with cutting-edge Web3 technology (Arbitrum, Chainlink CRE, and FHE), we completely close the legal and technical Trust Gap. We do not tokenize property titles; we enable the tokenization of mathematically verified economic rights and isolated economic flows for a diverse range of institutional-grade physical assets.
 
 ---
 
