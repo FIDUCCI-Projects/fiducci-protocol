@@ -51,18 +51,17 @@ The FIDUCCI protocol core logic is currently deployed and verifiable on the **Ar
 
 To save you time evaluating our "Trust Stack", here is where our core integrations live across our ecosystem:
 
-* **Chainlink CRE & Functions:** Explore the oracle integration bridging off-chain legal valuation with our smart contracts in the [`cre_automation`](https://github.com/FIDUCCI-Projects/cre_automation) repository.
-* **Arbitrum Smart Contracts:** Navigate to the [`rebeka_contracts`](https://github.com/FIDUCCI-Projects/rebeka_contracts) repository for the logic governing the isolated Economic Rights issuance.
-* **Frontend (dApp):** The complete institutional investor dashboard UI is located in the [`FrontEnd`](https://github.com/FIDUCCI-Projects/FrontEnd) repository.
-
+* **Chainlink CRE (Runtime Environment):** Explore the decentralized workflows bridging off-chain legal status with our smart contracts in the [`cre_automation`](https://github.com/FIDUCCI-Projects/cre_automation) repository. This is our core engine for verifiable trust.
+* **Arbitrum Smart Contracts:** Navigate to the [`rebeka_contracts`](https://github.com/FIDUCCI-Projects/rebeka_contracts) repository for the Solidity logic governing the issuance and management of isolated Economic Rights.
+* **Frontend (dApp):** The complete institutional investor dashboard UI, built to interact with our Arbitrum deployment, is located in the [`FrontEnd`](https://github.com/FIDUCCI-Projects/FrontEnd) repository.
 ---
 
 ## 🛠️ Technical Stack & Integrations
 
 - **Network:** [Arbitrum One / Sepolia Testnet](https://arbitrum.io/).
 - **Execution:** Solidity-based Smart Contracts (Planned migration to **Arbitrum Stylus** for enhanced performance).
-- **Oracle Framework:** [Chainlink Functions](https://chain.link/) & Chainlink Runtime Environment (CRE).
-- **Data Oracles:** Real-time integration with **Intelimetrica** APIs.
+- **Oracle Framework:** **Chainlink Runtime Environment (CRE)**.
+- **Data Oracles:** Real-time integration with **Intelimetrica** APIs for property valuation and trust status.
 
 ---
 
