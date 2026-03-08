@@ -24,7 +24,7 @@ Our infrastructure is built on four fundamental pillars to ensure institutional 
 | :--- | :--- | :--- |
 | **Legality** | Mexican Fideicomiso (Land Trust) | 1:1 Legal backing, bankruptcy-remote isolation, and regulatory compliance. |
 | **Solidity** | Arbitrum L2 + Stylus | Scalable, low-latency, and secure execution layer for institutional-grade token issuance. |
-| **Verifiability** | Chainlink CRE (Runtime Environment) | Decentralized verification engine connecting on-chain logic with off-chain legal data and asset valuation. |
+| **Verifiability** | Chainlink CRE (Runtime Environment) | Decentralized verification engine connecting on-chain logic with off-chain legal data and real-world asset valuation. |
 | **Privacy** | FHE (Fully Homomorphic Encryption) | Data protection for sensitive investor information and encrypted economic flow distribution. |
 
 ---
@@ -34,9 +34,9 @@ Our infrastructure is built on four fundamental pillars to ensure institutional 
 To stress-test our TaaS engine, we are using a **$6M USD Land Development** in Puebla, Mexico, as our primary benchmark. 
 
 - **Asset Value:** $6,000,000 USD
-- **Strategy:** Tokenizing the mathematically verified economic rights and expected economic flows of a **20-hectare raw land development**. The physical asset remains completely legally isolated and protected by the Fideicomiso, while the economic rights become liquid and on-chain enforceable.
-- **Oracle Pipeline:** Automated workflows connecting the state's Notarial/Cadastral and Trust data with Arbitrum.
-
+- **Strategy:** Tokenizing the mathematically verified economic rights and expected economic flows of a **20-hectare raw land development**.
+- **Oracle Pipeline:** Automated workflows connecting the state's Notarial/Cadastral and Trust data with Arbitrum via Chainlink CRE.
+  
 ---
 
 ## 📜 Smart Contracts (Testnet)
@@ -61,7 +61,6 @@ To save you time evaluating our "Trust Stack", here is where our core integratio
 - **Network:** [Arbitrum One / Sepolia Testnet](https://arbitrum.io/).
 - **Execution:** Solidity-based Smart Contracts (Planned migration to **Arbitrum Stylus** for enhanced performance).
 - **Oracle Framework:** **Chainlink Runtime Environment (CRE)**.
-- **Data Oracles:** Real-time integration with **Intelimetrica** APIs for property valuation and trust status.
 
 ---
 
@@ -79,9 +78,10 @@ This repository (`fiducci-protocol`) serves as the central hub for the ecosystem
 ## 🚀 Roadmap
 
 - [x] **Phase 1:** Legal Design & Technical Architecture.
-- [x] **Phase 2:** MVP Deployment on Arbitrum Sepolia (Solidity-based).
-- [x] **Phase 3:** **Chainlink CRE Integration & Beta Testing (Hackathon Milestone Achieved! 🏆)**.
-- [ ] **Phase 4:** **Stylus Migration** - Transitioning core compute-intensive logic to Arbitrum Stylus for high-performance execution.
+- [x] **Phase 2:** MVP Deployment on Arbitrum Sepolia.
+- [x] **Phase 3:** **Chainlink CRE Integration (Hackathon Milestone! 🏆)**.
+    - *Includes real-time valuation engine powered by **Intelimetrica APIs**.*
+- [ ] **Phase 4:** **Stylus Migration** for high-performance execution.
 - [ ] **Phase 5:** Genesis Case Pilot Launch ($6M USD Asset in Puebla).
 
 ---
